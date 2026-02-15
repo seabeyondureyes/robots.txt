@@ -1,0 +1,6 @@
+# robots.txt
+# Cybrexit
+
+User-agent: *
+Disallow: /
+Disallow: /113
